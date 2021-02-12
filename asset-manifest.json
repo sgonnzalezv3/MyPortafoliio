@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyPortafoliio/static/css/main.b2d64977.chunk.css",
+    "main.js": "/MyPortafoliio/static/js/main.3cba1515.chunk.js",
+    "main.js.map": "/MyPortafoliio/static/js/main.3cba1515.chunk.js.map",
+    "runtime-main.js": "/MyPortafoliio/static/js/runtime-main.be364f4a.js",
+    "runtime-main.js.map": "/MyPortafoliio/static/js/runtime-main.be364f4a.js.map",
+    "static/js/2.b47e94ea.chunk.js": "/MyPortafoliio/static/js/2.b47e94ea.chunk.js",
+    "static/js/2.b47e94ea.chunk.js.map": "/MyPortafoliio/static/js/2.b47e94ea.chunk.js.map",
+    "index.html": "/MyPortafoliio/index.html",
+    "static/css/main.b2d64977.chunk.css.map": "/MyPortafoliio/static/css/main.b2d64977.chunk.css.map",
+    "static/js/2.b47e94ea.chunk.js.LICENSE.txt": "/MyPortafoliio/static/js/2.b47e94ea.chunk.js.LICENSE.txt",
+    "static/media/Contact.css": "/MyPortafoliio/static/media/fondo1.aa773e19.jpg",
+    "static/media/santiago Gonzalezv-convertido(1).e94cd530.pdf": "/MyPortafoliio/static/media/santiago Gonzalezv-convertido(1).e94cd530.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be364f4a.js",
+    "static/js/2.b47e94ea.chunk.js",
+    "static/css/main.b2d64977.chunk.css",
+    "static/js/main.3cba1515.chunk.js"
+  ]
+}
